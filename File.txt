@@ -1,2 +1,3 @@
 Salom bu File.txt dagi 1-yozuv.
 O'zgarish qildim.
+Yana o'zgardi bu fayl
